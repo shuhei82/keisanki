@@ -4,6 +4,6 @@
 
 print("1から100までの和を求めます")
 sum = 0
-for i in range(1, 100):
+for i in range(1, 101):
   sum = sum + i
 print("合計は", sum, "です")
